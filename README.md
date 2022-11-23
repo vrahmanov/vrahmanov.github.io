@@ -15,7 +15,7 @@ This is welcome page of the VladiR project. You can see full russian instruction
 [VladiR](https://github.com/VladiR) is a small project that contains tools we use in our daily work. All the tools are licensed under MIT.
 You are welcome to contribute to our project, help is appreciated.
 
-If you have any questions you can contact project administrators: [Alexander Pazdnikov](https://github.com/apazdnikov), [Timur Gilmullin](https://github.com/Tim55667757) and [Aleksey Burov](https://github.com/orgs/VladiR/people/allburov). 
+If you have any questions you can contact project administrators: [Vladi Rahmanov](https://github.com/vrahmanov).
 
 **Our goal** is to have open source solutions for various aspects of Application Lifecycle Management (ALM), such as development, testing, delivery, deployment and licensing. 
 We want to:
