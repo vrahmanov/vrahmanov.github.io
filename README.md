@@ -1,13 +1,13 @@
-VladiR is a small project with tools for DevOps developers
+vrahmanov github page
 ============================================================
-This is welcome page of the VladiR project. You can see full russian instruction [here](https://github.com/VladiR/VladiR/blob/master/README.md/).
+This is welcome page of the vrahmanov on github pages.
 
 
 ***Table of contents:***
 - [Introduction](#Introduction)
-- [Our projects](#Links)
+- [My projects](#Links)
 - [About us](#About)
-- [Contacts](#Contacts)
+- [Contacts](#Contacts) 
 
 
 # Introduction <a name="Introduction"></a>
@@ -26,10 +26,10 @@ We want to:
 
 We also want our tools to be accessible as easily as possible by software companies and individual developers alike.
 
-# Our projects <a name="Links"></a>
+# Projects Used <a name="Links"></a>
 
 ***Published tools:***
-
+```
 **[ExampleProject](https://VladiR.github.io/ExampleProject/)** — typical example VladiR-project.
 Basic functionality is implemented, such as code quality, build, tests, deploy to pypi and notifications.
 Travis CI is used for CI/CD.
@@ -46,20 +46,21 @@ Basically, this project can be used as a template for your own VladiR project.
 * **[FuzzyClassificator](https://VladiR.github.io/FuzzyClassificator/)** — data classifier based on fuzzy logic and neural network technology. [GitHub](https://github.com/VladiR/FuzzyClassificator)
 * **[FuzzyRoutines](https://github.com/VladiR/FuzzyRoutines/)** — python library to work with fuzzy scales, fuzzy logic and fuzzy sets.
 * **[FunnyTestPage](https://github.com/VladiR/FunnyTestPage)** — simple test (ru): can you become UI tester?
-
+```
 ***Projects to be published:***
-
+```
 * **CrossBuilder** — cross-platform Build As a Code software, can be used with TeamCity, Jenkins, GitLab CI, Travis CI e.t.c. 
 * **ChangelogBuilder** — generates products release notes by aggregating data from issue tracking systems (TFS, YouTrack, GitLab, JIRA e.t.c.). 
 * **MSI SDK** — toolkit used to create msi and deb packages for product installers.
 * **SupplyLab** — Continuous Delivery system (GUS + FLUS + LicenseLab). Delivers products, updates and licenses to customer.
 * **pytest-testrail** — python client for publishing pytest results to Gurock TestRail.
-
+```
 
 # About us <a name="About"></a>
-
-
+```
+tbd
+```
 # Contacts <a name="Contacts"></a>
 
-- Our Telegram channel: [https://telegram.me/VladiR](https://telegram.me/VladiR)
-    - Our Telegram [stickers](https://telegram.me/addstickers/vladir) :)
+- WIP: [https://telegram.me/VladiR](https://telegram.me/VladiR)
+    - WIP [stickers](https://telegram.me/addstickers/vladir) :)
