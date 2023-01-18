@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Vlad and I'm a senior devops engineer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
   I am most skilled in: 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Shell Script](https://img.shields.io/badge/shell_script-%25121025.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -62,7 +62,6 @@ about_content: | # this will include new lines to allow paragraphs
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-  <mark>AWS</mark> ,<mark>CI</mark> ,<mark>CD</mark>,<mark>CT</mark> ,<mark>Scripting</mark> ,<mark>Monitoring</mark> and <mark>Eating Pizza</mark>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
