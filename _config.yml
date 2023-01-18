@@ -98,6 +98,25 @@ content:
         description: | # this will include new lines to allow paragraphs
           As terraform became a key player in the all infra levels on all providers , more and more developers wanted to create resources without playing with HCL. thats how this was born .
 
+
+      - layout: top-middle
+        title: GKE cluster terraform module
+        link: github.com/vrahmanov/dl_gcp_poc
+        # link_text: Project Website
+        additional_links:
+          - title:  vrahmanov/dl_gcp_poc
+            icon: fab fa-github
+            url: https://github.com/vrahmanov/dl_gcp_poc
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+         A small hcl module that provisions a GKE cluster with network and deploys a few known solutions with the providers of Hashicorp and others.
+        description: | # this will include new lines to allow paragraphs
+          The request was - Create a GKE cluster with network , then provision a few apps with helm , manage it all in terraform with PROPER dependencies . 
+
+# https://github.com/vrahmanov/dl_gcp_poc
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
