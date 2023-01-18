@@ -81,6 +81,22 @@ content:
           Every devops needs to feel the new buzz words without a hussle so , if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>K3D</mark> and it has since grown into a fully k8s Mini monster. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - layout: top-middle
+        title: Terraform Python Wrap
+        link: github.com/vrahmanov/nginx_prod_grade
+        # link_text: Project Website
+        additional_links:
+          - title:  vrahmanov/nginx_prod_grade
+            icon: fab fa-github
+            url: https://github.com/vrahmanov/nginx_prod_grade
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          ---No longer maintained--- 
+          I Remember the times when developer wanted to provision a set of AWS assets without knowing terraform , so i created them a small tool for it :-) 
+        description: | # this will include new lines to allow paragraphs
+          As terraform became a key player in the all infra levels on all providers , more and more developers wanted to create resources without playing with HCL. thats how this was born .
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
