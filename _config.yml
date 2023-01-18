@@ -145,11 +145,11 @@ content:
   - title: Languages # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Hebrew
-      - layout: left
+      - layout: top-middle
         title: English
-      - layout: left
+      - layout: top-middle
         title: Russian
         # caption: 2009 - 2010
         # sub_title: Associate's Computer Science degree 
