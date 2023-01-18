@@ -59,7 +59,7 @@ content:
     content:
       - layout: top-middle
         title: K3d mini cluster lab
-        link: github.com/sproogen
+        link: github.com/vrahmanov/k3dcluster_tester
         # link_text: Project Website
         additional_links:
           - title:  vrahmanov/k3dcluster_tester
