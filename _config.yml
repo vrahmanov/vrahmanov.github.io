@@ -63,9 +63,26 @@ about_content: | # this will include new lines to allow paragraphs
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 content:
+  
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: gists gists gist them all 
+        link: https://gist.github.com/vrahmanov/public
+        # link_text: Project Website
+        additional_links:
+          - title:  gist
+            icon: fab fa-github
+            url: https://gist.github.com/vrahmanov/public
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Some of the best and most used solution eventually are held in gists ( in any field ) - even great ideas and skeletons start some where
+        description: | # this will include new lines to allow paragraphs
+          One day i found a solution to a major issue i had in a public gist , ever since im holding some of my public knowledge there as well , 
+          maybe it will help some one  - one day , the same way i got my solution :-) . 
       - layout: top-middle
         title: K3d mini cluster lab
         link: github.com/vrahmanov/k3dcluster_tester
