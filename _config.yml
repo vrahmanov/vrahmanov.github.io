@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Vlad Rahmanov
-title: DevOps as a service 
+title: I heared you like docker , so i dockered your k8 docker to a container-d layer ... OR  shortly -  i make servers to go WHOOOOOOOOO! 
 email: xcode2vlad@gmail.com
 website: github.com/vrahmanov
 
@@ -50,7 +50,7 @@ linkedin_username: vladi-rahmanov
 about_profile_image: images/test.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Vlad and I'm a senior devops engineer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-  I am most skilled in: 
+  over the past century ive been doing alot , LOVE DevOps as a concept , and now for the fun part - i am most skilled in: 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Shell Script](https://img.shields.io/badge/shell_script-%25121025.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,12 +63,30 @@ about_content: | # this will include new lines to allow paragraphs
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![GitLab CI](https://img.shields.io/badge/gitlab-12345A0?style=for-the-badge&logo=gitlab&logoColor=red)
   ![ArgoCD](https://img.shields.io/badge/argocd-orange?style=for-the-badge&logo=argocd)
+  
+  There are more ... but , it breaks this pretty picture :-) 
 
 content:
   
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: SO MANY , just choose
+        link: https://github.com/vrahmanov?tab=repositories
+        # link_text: Project Website
+        additional_links:
+          - title:  gist
+            icon: fab fa-github
+            url: https://github.com/vrahmanov?tab=repositories
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Over the past century , i have been forking and supporting multiple projects , privately and publicly , im proud of each one of them. 
+        description: | # this will include new lines to allow paragraphs
+          I like to make automation go above and beyond the basic needs , from local to remote , from onprem to multicloud - you name it, i probably met it.
+
       - layout: top-middle
         title: gists gists gist them all 
         link: https://gist.github.com/vrahmanov/public
