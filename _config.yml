@@ -61,6 +61,8 @@ about_content: | # this will include new lines to allow paragraphs
   ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![GitLab CI](https://img.shields.io/badge/gitlab-12345A0?style=for-the-badge&logo=gitlab&logoColor=red)
+  ![ArgoCD](https://img.shields.io/badge/argocd-orange?style=for-the-badge&logo=argocd)
 
 content:
   
@@ -138,11 +140,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Qwilt
+        link: https://www.qwilt.com/
+        # link_text: boringcompany.com
+        sub_title: DevOps
+        caption: 2023 - present
+        quote: >
+          OpenCache solution provided by a true top notch techstack company.
+        description: | # this will include new lines to allow paragraphs
+            So much , from gitlab CI based on gitflow and trunkbased dev to CD using argo and terraform , building Kubernetes Operators and CRDs to allow a fluid CD to a HUGE echo system.
+            GCP and AWS at once , with multiple Sec and tests gates , Fun Fun Fun for everyone !
+
+      - layout: left
         title: Locusview
         link: Locusview.com
         # link_text: boringcompany.com
         sub_title: DevOps
-        caption: 2021 - Present
+        caption: 2021 - 2023
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
